@@ -39,8 +39,8 @@ Utilitários
 
 ## 💻 Projeto
 
-<h1>Esse projeto foi feito em conjunto com o <a href='https://www.youtube.com/watch?v=llF6vD-RljE'>video da Rafaella Ballerini</a></h1> 
-Contém as seguintes seções: Header, Navigation, Main, Comunidade Ballerini, Tutorial, Open Source, Comandos, GitHub e Footer
+Esse projeto foi feito em conjunto com o <a href='https://www.youtube.com/watch?v=llF6vD-RljE'>video da Rafaella Ballerini</a>
+Contém as seguintes seções: Header, Navigation, Main, Section, Comunidade Ballerini, Tutorial, Open Source, Comandos, GitHub e Footer
 
 ## 🔖 Layout
 
